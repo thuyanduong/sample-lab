@@ -1,0 +1,26 @@
+{
+  "name": "sample-lab",
+  "version": "1.0.0",
+  "description": "Sample Lab",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Marcy-Lab-School/sample-lab.git"
+  },
+  "keywords": [
+    "sample",
+    "lab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Marcy-Lab-School/sample-lab/issues"
+  },
+  "homepage": "https://github.com/The-Marcy-Lab-School/sample-lab#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
+}
