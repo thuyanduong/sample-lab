@@ -26,13 +26,13 @@ Switch roles for each of the problems below.
 
 ### Problems
 
-1. Write a function called `makeNegative` that takes in one parameter, a numbers, returns the negative version of that number.
+1. Write a function called `makeNegative` that takes in one parameter, a numbers, console.log the negative version of that number.
 
 ```js
 makeNegative(2);
-// => -2
+// -2
 makeNegative(3);
-// => -3
+// -3
 ```
 
 2. Write a function called `printAddition` that takes in two parameters, both are numbers, and logs a sentence describing the sum of those numbers.
